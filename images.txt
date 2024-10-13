@@ -1,3 +1,16 @@
+confluentinc/cp-zookeeper:7.3.2
+confluentinc/cp-kafka:7.3.2
+confluentinc/cp-schema-registry:7.3.2
+confluentinc/cp-kafka-rest:7.3.2
+confluentinc/cp-kafka-connect:7.3.2
+confluentinc/cp-ksqldb-server:7.3.2
+postgres:14
+conduktor/conduktor-console:1.26.0
+knowstreaming/knowstreaming-manager:latest
+knowstreaming/knowstreaming-ui:latest
+docker.io/library/elasticsearch:7.6.2
+knowstreaming/knowstreaming-manager:latest
+knowstreaming/knowstreaming-mysql:latest
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
