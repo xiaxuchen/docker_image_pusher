@@ -5,6 +5,14 @@ confluentinc/cp-kafka-rest:7.3.2
 confluentinc/cp-kafka-connect:7.3.2
 confluentinc/cp-ksqldb-server:7.3.2
 bde2020/hdfs-filebrowser:3.11
+bde2020/spark-notebook:2.1.0-hadoop2.8-hive
+bde2020/spark-worker:2.1.0-hadoop2.8-hive-java8
+bde2020/spark-master:2.1.0-hadoop2.8-hive-java8
+bde2020/spark-notebook:2.1.0-hadoop2.8-hive
+bde2020/hadoop-datanode:1.1.0-hadoop2.8-java8
+bde2020/hadoop-namenode:1.1.0-hadoop2.8-java8
+bde2020/hive:2.1.0-postgresql-metastore
+bde2020/hive-metastore-postgresql:2.1.0
 postgres:14
 conduktor/conduktor-console:1.26.0
 knowstreaming/knowstreaming-manager:latest
