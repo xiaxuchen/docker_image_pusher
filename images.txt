@@ -4,6 +4,7 @@ confluentinc/cp-schema-registry:7.3.2
 confluentinc/cp-kafka-rest:7.3.2
 confluentinc/cp-kafka-connect:7.3.2
 confluentinc/cp-ksqldb-server:7.3.2
+bde2020/hdfs-filebrowser:3.11
 postgres:14
 conduktor/conduktor-console:1.26.0
 knowstreaming/knowstreaming-manager:latest
